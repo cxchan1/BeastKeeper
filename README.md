@@ -2,7 +2,7 @@
 
 > The worldʼs hottest new startup is BeastKeeper(Should be PokemonFinder). Nearby Pokemon allow you to carousel of any nearby that looking for new trainer (instead of home).
 
-<img alt="BeastKeeper" src="assets/demo.png">
+<img alt="BeastKeeper" src="assets/Video.MOV">
 
 ## Demo
 
@@ -10,7 +10,6 @@
 
 ## Technologies
 - [React Native (Expo)](https://docs.expo.io/versions/latest/)
-- [Ex Navigation](https://github.com/expo/ex-navigation)
 
 ## Getting Started
 Clone this repository
@@ -19,7 +18,7 @@ $ git clone git@github.com:cxchan1/BeastKeeper.git
 ```
 Install node modules, [Yarn](https://yarnpkg.com/en/) is highly recommended.
 ```
-$ yarn install
+$ cd BeastKeeper && yarn install
 ```
 Open and start project using [Expo XDE](https://expo.io/tools) or use the [CLI](https://github.com/expo/exp) :
 ```
