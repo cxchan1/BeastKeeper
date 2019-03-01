@@ -148,12 +148,6 @@ export default class DetailScreen extends React.Component {
               ],
               opacity: opacityTransition
             }}>
-            <Text style={[styles.nameText, { fontSize: 36 }]}>
-              {item.name}
-            </Text>
-            <Text style={[styles.ageText, { fontSize: 82 }]}>
-              {item.age}
-            </Text>
             <Text style={[styles.descriptionText, { fontSize: 24 }]}>
               {item.description}
             </Text>

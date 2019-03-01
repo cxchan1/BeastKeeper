@@ -27,7 +27,7 @@ var { height, width } = Dimensions.get('window');
 export default class HomeScreen extends Component {
   static route = {
     navigationBar: {
-      title: 'Pokemon nearby',
+      title: 'Nearby Pokemon',
       subtitle: '5/807'
     }
   };
