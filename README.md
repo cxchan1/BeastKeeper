@@ -2,7 +2,7 @@
 
 > The worldʼs hottest new startup is BeastKeeper(Should be PokemonFinder). Nearby Pokemon allow you to carousel of any nearby that looking for new trainer (instead of home).
 
-<img alt="BeastKeeper" src="assets/Video.MOV">
+<img alt="BeastKeeper" src="assets/demo.png">
 
 ## Demo
 
