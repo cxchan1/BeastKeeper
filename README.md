@@ -31,4 +31,4 @@ $ exp ios
 $ exp android
 ```
 ## Get the App
-If you don't want to run on your local machine then download this app ios(https://itunes.apple.com/app/apple-store/id982107779) or android (https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) and either scan QR code or input your email/phone then you should access to the App itself.
+If you don't want to run on your local machine then download this app ios(https://itunes.apple.com/app/apple-store/id982107779) or android (https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) and either scan QR code or input your email/phone from this page (https://expo.io/@cxchan/BeastKeeper) then you should access to the App itself.
