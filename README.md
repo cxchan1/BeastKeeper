@@ -35,5 +35,5 @@ If you don't want to run on your local machine then download this app ios(https:
 
 ## Time
 
-5 hours: Experienced with Expo and coding the App
-2 or 3 hours: Tried to get build release on Expo and Documentations(Image and Video)
+- 5 hours: Experienced with Expo and coding the App
+- 2 or 3 hours: Tried to get build release on Expo and Documentations(Image and Video)
