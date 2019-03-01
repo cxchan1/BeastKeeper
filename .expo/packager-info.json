@@ -1,9 +1,9 @@
 {
-  "devToolsPort": 19003,
-  "expoServerPort": 19004,
-  "packagerPort": 19005,
-  "packagerPid": 73114,
-  "expoServerNgrokUrl": "https://ri-ira.anonymous.beastkeeper.exp.direct",
-  "packagerNgrokUrl": "https://packager.ri-ira.anonymous.beastkeeper.exp.direct",
-  "ngrokPid": 73126
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 89096,
+  "expoServerNgrokUrl": "https://ri-ira.cxchan.beastkeeper.exp.direct",
+  "packagerNgrokUrl": "https://packager.ri-ira.cxchan.beastkeeper.exp.direct",
+  "ngrokPid": 89113
 }
